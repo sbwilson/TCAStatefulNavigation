@@ -78,6 +78,7 @@
 		23EAA2A32966A55C0061F5D6 = {
 			isa = PBXGroup;
 			children = (
+				23EAA2DD2966E8A30061F5D6 /* README.md */,
 				23EAA2AE2966A55C0061F5D6 /* TestStatefulNavigation */,
 				23EAA2C02966A55D0061F5D6 /* TestStatefulNavigationTests */,
 				23EAA2CA2966A55D0061F5D6 /* TestStatefulNavigationUITests */,
@@ -103,7 +104,6 @@
 				23EAA2B32966A55C0061F5D6 /* Assets.xcassets */,
 				23EAA2B82966A55C0061F5D6 /* TestStatefulNavigation.entitlements */,
 				23EAA2B52966A55C0061F5D6 /* Preview Content */,
-				23EAA2DD2966E8A30061F5D6 /* README.md */,
 			);
 			path = TestStatefulNavigation;
 			sourceTree = "<group>";
